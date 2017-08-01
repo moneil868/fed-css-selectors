@@ -37,3 +37,8 @@ header {
 #item2 {
   text-align: right;
 }
+
+ol > li {
+  padding: 5px;
+  background-color: grey;
+}
