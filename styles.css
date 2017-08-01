@@ -12,3 +12,20 @@ h2 {
 header {
   border-bottom: 1px solid black;
 }
+
+.class-list {
+  list-style-type: square;
+}
+
+.item {
+  border: 1px dotted #ccc;
+}
+
+.even {
+  background-color: grey;
+}
+
+.odd {
+  background-color: black;
+  color: white;
+}
