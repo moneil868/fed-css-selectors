@@ -47,3 +47,7 @@ ol > li {
 ol > li:nth-child(odd) {
   background-color: green;
 }
+
+.exercises a:hover {
+  text-decoration:  none;
+}
